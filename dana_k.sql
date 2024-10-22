@@ -2,6 +2,5 @@ select
     name,
     surname,
     person_id,
-    age,
-    new_column
+    age
 from customer
